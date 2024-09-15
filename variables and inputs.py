@@ -1,5 +1,5 @@
-print("My name is Aurna.")
-myname = "Aurna"
+print("My name is Nunya.")
+myname = "Nunya"
 myage = 11
 print("My name is "+myname)
 print("My age is "+str(myage))
