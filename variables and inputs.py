@@ -1,0 +1,16 @@
+print("My name is Aurna.")
+myname = "Aurna"
+myage = 11
+print("My name is "+myname)
+print("My age is "+str(myage))
+print("My age is",myage)
+print(f"My age is {myage}")
+yn = input("Please enter your name: ")
+ya = input("How old are you? ")
+print("Your name is "+yn)
+print("Your age is "+ya)
+print("In ten years, you will be",int (ya)+10)
+yc = input("What is your favorite color? ")
+print("Your favorite color is "+yc)
+ym = input("What is your favorite movie? ")
+print("Your favorite movie is "+ym)
